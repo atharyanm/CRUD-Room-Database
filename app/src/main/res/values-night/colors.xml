@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="dark_blue">@color/teal_700</color>
+    <color name="background_color_button">@color/teal_200</color>
+
+    <color name="black">@color/white</color>
+    <color name="stroke">#3E3E3E</color>
+</resources>

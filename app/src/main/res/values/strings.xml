@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Introducing Notes</string>
+    <string name="add_friend">+</string>
+    <string name="tuliskan_nama">Name...</string>
+    <string name="tuliskan_sekolah">School...</string>
+    <string name="tuliskan_hobi">Hobby...</string>
+    <string name="save">Save</string>
+    <string name="edit">Edit</string>
+    <string name="delete">Delete</string>
+</resources>
